@@ -3,4 +3,4 @@
 Анциферов Никита 02261-ДБ
 Вариант 7. Учет наличия товара на складе
 ## ER-диаграмма
-<img width="796" height="669" alt="diagramm" src="er.png" />
+<img alt="diagramm" src="er.png" />
