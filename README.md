@@ -105,4 +105,10 @@ CHECK - проверочные ограничения
 <img width="722" height="728" alt="image" src="https://github.com/user-attachments/assets/bb1ed36a-538d-4285-94c0-9a4bb3a549a2" />
 <img width="968" height="737" alt="image" src="https://github.com/user-attachments/assets/46e9a356-ed54-4cb4-8152-34b19f822072" />
 <img width="534" height="629" alt="image" src="https://github.com/user-attachments/assets/5eb342e5-9cd2-4ecf-9aeb-9057df12cbfe" />
+**Запросы с JOIN**
+
+1 документ
+<img width="1253" height="589" alt="image" src="https://github.com/user-attachments/assets/57c77512-eddf-4485-b57f-ac7ca65aa26d" />
+2 документ
+<img width="1143" height="638" alt="image" src="https://github.com/user-attachments/assets/3722e9a8-f6c8-458c-ab50-f4520feb43c6" />
 
