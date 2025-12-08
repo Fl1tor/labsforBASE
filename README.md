@@ -1,4 +1,4 @@
-# labsforBASE
+<img width="853" height="292" alt="image" src="https://github.com/user-attachments/assets/a1a56901-a51d-4cc4-a1f4-54a440bfae88" /># labsforBASE
 Лабораторные работы по Базам Данных  
 Анциферов Никита 02261-ДБ  
 Вариант 7. Учет наличия товара на складе
@@ -98,3 +98,4 @@ FOREIGN KEY - внешние ключи
 NOT NULL - обязательные поля
 
 CHECK - проверочные ограничения
+## 2 лабораторная
