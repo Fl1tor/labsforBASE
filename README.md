@@ -100,3 +100,9 @@ NOT NULL - обязательные поля
 CHECK - проверочные ограничения
 ## 2 лабораторная
 <img width="853" height="292" alt="image" src="https://github.com/user-attachments/assets/a1a56901-a51d-4cc4-a1f4-54a440bfae88" />
+<img width="507" height="579" alt="image" src="https://github.com/user-attachments/assets/37f076f7-2bf7-4feb-8707-0eea06d9aae0" />
+<img width="726" height="708" alt="image" src="https://github.com/user-attachments/assets/9e783e5c-6691-420f-9207-f17953fa8880" />
+<img width="722" height="728" alt="image" src="https://github.com/user-attachments/assets/bb1ed36a-538d-4285-94c0-9a4bb3a549a2" />
+<img width="968" height="737" alt="image" src="https://github.com/user-attachments/assets/46e9a356-ed54-4cb4-8152-34b19f822072" />
+<img width="534" height="629" alt="image" src="https://github.com/user-attachments/assets/5eb342e5-9cd2-4ecf-9aeb-9057df12cbfe" />
+
