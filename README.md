@@ -105,6 +105,8 @@ CHECK - проверочные ограничения
 <img width="722" height="728" alt="image" src="https://github.com/user-attachments/assets/bb1ed36a-538d-4285-94c0-9a4bb3a549a2" />
 <img width="968" height="737" alt="image" src="https://github.com/user-attachments/assets/46e9a356-ed54-4cb4-8152-34b19f822072" />
 <img width="534" height="629" alt="image" src="https://github.com/user-attachments/assets/5eb342e5-9cd2-4ecf-9aeb-9057df12cbfe" />
+
+
 **Запросы с JOIN**
 
 1 документ
@@ -112,3 +114,21 @@ CHECK - проверочные ограничения
 2 документ
 <img width="1143" height="638" alt="image" src="https://github.com/user-attachments/assets/3722e9a8-f6c8-458c-ab50-f4520feb43c6" />
 
+## 3 лабораторная
+
+**1. Процедура: Добавление новой приходной накладной**
+
+<img width="510" height="612" alt="image" src="https://github.com/user-attachments/assets/c6514e0c-230c-4f66-8449-7992f0786c36" />
+<img width="857" height="692" alt="image" src="https://github.com/user-attachments/assets/6f611f8a-08a1-491d-bd2f-6a90b9f9ddb1" />
+
+**2. Процедура: Расчет стоимости накладной**
+<img width="641" height="607" alt="image" src="https://github.com/user-attachments/assets/f19fd4f8-707b-4828-89d8-2ca9b7ee8e30" />
+<img width="498" height="655" alt="image" src="https://github.com/user-attachments/assets/1ccd9f2b-5364-4bae-9a9c-39b24d430eba" />
+
+**3. Представление: Остатки товаров на складах**
+<img width="645" height="624" alt="image" src="https://github.com/user-attachments/assets/0613e637-778a-44bd-9dc4-eb8beb1fbf24" />
+<img width="941" height="724" alt="image" src="https://github.com/user-attachments/assets/87ba297c-2ab2-4760-80d7-393486c9614d" />
+
+**4. Представление: Ежемесячный отчет по движению товаров**
+<img width="719" height="621" alt="image" src="https://github.com/user-attachments/assets/fe629df8-1189-4733-af7a-8776eff77b3e" />
+<img width="500" height="703" alt="image" src="https://github.com/user-attachments/assets/2118ac09-8a81-4457-ae97-994bc00fa550" />
