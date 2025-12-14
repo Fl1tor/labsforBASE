@@ -132,3 +132,13 @@ CHECK - проверочные ограничения
 **4. Представление: Ежемесячный отчет по движению товаров**
 <img width="719" height="621" alt="image" src="https://github.com/user-attachments/assets/fe629df8-1189-4733-af7a-8776eff77b3e" />
 <img width="500" height="703" alt="image" src="https://github.com/user-attachments/assets/2118ac09-8a81-4457-ae97-994bc00fa550" />
+
+**5. Процедура для обновления цены товара**
+<img width="779" height="731" alt="image" src="https://github.com/user-attachments/assets/814c9652-b757-45e1-bd19-44ca7f1cff57" />
+<img width="953" height="691" alt="image" src="https://github.com/user-attachments/assets/427dcc79-e6c1-408c-87a2-43f2ff701a6b" />
+<img width="574" height="538" alt="image" src="https://github.com/user-attachments/assets/868d0994-7dd2-4bb0-bc95-36f1fa40e65d" />
+
+**6. Процедура: Изменить кладовщика на складе**
+<img width="1031" height="729" alt="image" src="https://github.com/user-attachments/assets/02367164-bd5d-434c-b936-bb8c0c5581c0" />
+<img width="698" height="617" alt="image" src="https://github.com/user-attachments/assets/8039d091-caf6-4915-a314-6eb48fe9ed7f" />
+
