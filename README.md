@@ -1,4 +1,4 @@
-# labsforBASE
+<img width="985" height="335" alt="image" src="https://github.com/user-attachments/assets/f20c5a61-24e1-4aa6-9642-0eafbaf243dd" /># labsforBASE
 Лабораторные работы по Базам Данных  
 Анциферов Никита 02261-ДБ  
 Вариант 7. Учет наличия товара на складе
@@ -159,3 +159,13 @@ CHECK - проверочные ограничения
 <img width="697" height="797" alt="image" src="https://github.com/user-attachments/assets/9ac1ca75-5936-4ead-8304-fac7f7d2bf5b" />
 <img width="686" height="255" alt="image" src="https://github.com/user-attachments/assets/85703561-84d1-4adf-b5d2-552e550a3abd" />
 <img width="341" height="277" alt="image" src="https://github.com/user-attachments/assets/b7fe8752-4a69-4c62-8ed9-f84d4bc82645" />
+
+## Оптимизация
+<img width="985" height="335" alt="image" src="https://github.com/user-attachments/assets/b826ba1f-f7b3-4aa4-859c-40b12f55a202" />
+<img width="447" height="285" alt="image" src="https://github.com/user-attachments/assets/fb7cb5d9-b06b-42c9-82f4-7b97b2c54cf5" />
+<img width="940" height="504" alt="image" src="https://github.com/user-attachments/assets/ddd9317f-d4b0-4e41-8cdf-e2a2488b2eb5" />
+<img width="437" height="302" alt="image" src="https://github.com/user-attachments/assets/6b1fdd23-48cb-4f98-9d56-0cd97db4fae1" />
+<img width="1074" height="561" alt="image" src="https://github.com/user-attachments/assets/d06e316f-e1d4-4af0-b957-99470946a958" />
+**Итог: с индексами производительность быстрее**
+
+
