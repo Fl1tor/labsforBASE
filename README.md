@@ -166,6 +166,21 @@ CHECK - проверочные ограничения
 <img width="940" height="504" alt="image" src="https://github.com/user-attachments/assets/ddd9317f-d4b0-4e41-8cdf-e2a2488b2eb5" />
 <img width="437" height="302" alt="image" src="https://github.com/user-attachments/assets/6b1fdd23-48cb-4f98-9d56-0cd97db4fae1" />
 <img width="1074" height="561" alt="image" src="https://github.com/user-attachments/assets/d06e316f-e1d4-4af0-b957-99470946a958" />
+
 **Итог: с индексами производительность быстрее**
 
+## 5 лаба
+**1. Триггер каскадного удаления накладных при удалении склада**
+<img width="774" height="759" alt="image" src="https://github.com/user-attachments/assets/18e3b247-aff7-455e-9926-b609b65850b1" />
+<img width="616" height="253" alt="image" src="https://github.com/user-attachments/assets/a2434baf-045f-4978-8eef-d8d37fe6d18b" />
 
+**2.Создаём таблицу аудита:**
+<img width="680" height="328" alt="image" src="https://github.com/user-attachments/assets/23ecaa4f-0a1d-4803-8bbb-4bb726869fc2" />
+
+**Создаём функцию + триггер:**
+<img width="788" height="759" alt="image" src="https://github.com/user-attachments/assets/aa93b379-0bbc-4ab9-868e-aaee8781f8bf" />
+<img width="722" height="216" alt="image" src="https://github.com/user-attachments/assets/f8a8f0a9-dc84-4b1c-b08f-69ba3792c86b" />
+
+**Проверяем триггеры аудита:**
+<img width="938" height="722" alt="image" src="https://github.com/user-attachments/assets/0a1783de-6087-455f-82e9-8b4e96a4a714" />
+Как мы видим, всё работает !
