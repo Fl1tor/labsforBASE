@@ -1,4 +1,4 @@
-<img width="985" height="335" alt="image" src="https://github.com/user-attachments/assets/f20c5a61-24e1-4aa6-9642-0eafbaf243dd" /># labsforBASE
+# labsforBASE
 Лабораторные работы по Базам Данных  
 Анциферов Никита 02261-ДБ  
 Вариант 7. Учет наличия товара на складе
