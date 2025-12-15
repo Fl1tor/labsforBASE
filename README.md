@@ -142,3 +142,20 @@ CHECK - проверочные ограничения
 <img width="1031" height="729" alt="image" src="https://github.com/user-attachments/assets/02367164-bd5d-434c-b936-bb8c0c5581c0" />
 <img width="698" height="617" alt="image" src="https://github.com/user-attachments/assets/8039d091-caf6-4915-a314-6eb48fe9ed7f" />
 
+## 4 лаба
+ **1. Генератор для таблицы СКЛАДЫ (20,000 записей)**
+<img width="786" height="628" alt="image" src="https://github.com/user-attachments/assets/6c48ab99-4820-4dd9-bfa3-2f025589dbfb" />
+<img width="349" height="238" alt="image" src="https://github.com/user-attachments/assets/5043e83d-36e6-4b0c-97ed-fefe31ce116e" />
+**2. Генератор для таблицы ТОВАРЫ (20,000 записей)**
+<img width="756" height="626" alt="image" src="https://github.com/user-attachments/assets/7388d58f-655d-4f55-a099-c460f737e9d6" />
+<img width="414" height="243" alt="image" src="https://github.com/user-attachments/assets/94fb716c-1c8c-4a69-90b2-08d94ab47b6a" />
+
+**3. Генератор для таблицы НАКЛАДНЫЕ (20,000 записей)**
+<img width="697" height="720" alt="image" src="https://github.com/user-attachments/assets/e9cb61fd-affb-4de8-9a8c-365723fd86d6" />
+<img width="371" height="301" alt="image" src="https://github.com/user-attachments/assets/cb4119aa-7f87-4a71-a9d3-f6184f75d261" />
+
+**4 Генератор позиций накладных (20000 записей)**
+
+<img width="697" height="797" alt="image" src="https://github.com/user-attachments/assets/9ac1ca75-5936-4ead-8304-fac7f7d2bf5b" />
+<img width="686" height="255" alt="image" src="https://github.com/user-attachments/assets/85703561-84d1-4adf-b5d2-552e550a3abd" />
+<img width="341" height="277" alt="image" src="https://github.com/user-attachments/assets/b7fe8752-4a69-4c62-8ed9-f84d4bc82645" />
